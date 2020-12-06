@@ -41,8 +41,17 @@ exec 3<&0
           echo "A pontok állása:"
 
  done < "$kerdesek"
+if (($pont1==$pont2))
+    then 
+        echo "Első játékos - $pont1"
+        echo "Második játékos - $pont2"
+elif (($pont1>$pont2))
+    then 
           echo "Első játékos - $pont1"
           echo "Második játékos - $pont2"
-
+    else 
+          echo "Második játékos - $pont2"
+          echo "Első játékos - $pont1"
+fi
 
  # https://unix.stackexchange.com/questions/453646/bash-prompting-for-user-input-while-reading-file
