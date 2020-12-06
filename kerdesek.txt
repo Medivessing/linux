@@ -1,2 +1,8 @@
-mi az első betü?;cica;aasd;kutya;c;
-mi az első b?;a;m;k;b;
+5 szénarakás meg 7 szénarakás összehordva hány szénarakás?;1;12;6;a;
+Mennyi 3^3+4^4+3^3+5^5;2105;3435;2845;b;
+(a+b)^2=?;a^2+2ab+b^2;a^2+b^2;a+2ab+b;a;
+Mikor jelent meg az első Iphone?;2008;2009;2007;c;
+Mi a keresés billenytűkombinációja;ctrl+a;ctrl+f;ctrl+x;b;
+Milyen operációs rendszer fut az okos TV-ken?;windows;java;android;c;
+Milyen alkohol miatt híresek az oroszok?;Vodka;Rum;Sör;a;
+Ha batman lennél hol bújnál el az arénába?;A tetőn;Az alagsorban;Egy érdemi kérdést kérnék;c;
