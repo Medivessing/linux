@@ -43,14 +43,14 @@ exec 3<&0
  done < "$kerdesek"
 if (($pont1==$pont2))
     then 
-        echo "Első játékos - $pont1"
-        echo "Második játékos - $pont2"
+        echo "*Első játékos* - $pont1"
+        echo "*Második játékos* - $pont2"
 elif (($pont1>$pont2))
     then 
-          echo "Első játékos - $pont1"
+          echo "*Első játékos* - $pont1"
           echo "Második játékos - $pont2"
     else 
-          echo "Második játékos - $pont2"
+          echo "*Második játékos* - $pont2"
           echo "Első játékos - $pont1"
 fi
 
