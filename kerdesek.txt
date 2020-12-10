@@ -5,4 +5,3 @@ Mikor jelent meg az első Iphone?;2008;2009;2007;c;
 Mi a keresés billenytűkombinációja;ctrl+a;ctrl+f;ctrl+x;b;
 Milyen operációs rendszer fut az okos TV-ken?;windows;java;android;c;
 Milyen alkohol miatt híresek az oroszok?;Vodka;Rum;Sör;a;
-Ha batman lennél hol bújnál el az arénába?;A tetőn;Az alagsorban;Egy érdemi kérdést kérnék;c;
