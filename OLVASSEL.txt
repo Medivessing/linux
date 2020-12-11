@@ -1,5 +1,6 @@
 Kvízjáték 2 személyre
 Először az első játékos válaszol a kérdésere, utána a második.
+Hibás válasz esetén újra ugyanannak a játékosnak kell válaszolni egészen addig amíg nem ír be egy jó betűt. 
 A végén a program kiírja a nyertest és a pontok állását.
 
 Új kérdések hozzáadásához a kerdesek.txt-t kell szerkeszteni:

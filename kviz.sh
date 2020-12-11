@@ -1,5 +1,7 @@
 #!/bin/bash
+parent_path=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
 
+cd "$parent_path"
 # konstansok
 kerdesek=kerdesek.txt
 pont1=0
