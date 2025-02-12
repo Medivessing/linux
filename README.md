@@ -1,0 +1,11 @@
+Kvízjáték 2 személyre
+Először az első játékos válaszol a kérdésere, utána a második.
+Hibás válasz esetén újra ugyanannak a játékosnak kell válaszolni egészen addig amíg nem ír be egy jó betűt. 
+A végén a program kiírja a nyertest és a pontok állását.
+
+Új kérdések hozzáadásához a kerdesek.txt-t kell szerkeszteni:
+Soronként vannak a kérdések és a hozzájuk tartozó válaszok, ezeket pontosvessző választja el.
+Az első pontosvesszőhöz a kérdés tartozik, ezután 3 válasz következik és a legvégén a jó válasz betűje (a,b,c)
+
+Készítette:
+Szita Tamás
